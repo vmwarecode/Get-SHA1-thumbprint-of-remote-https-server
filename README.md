@@ -1,0 +1,1 @@
+# Get-SHA1-thumbprint-of-remote-https-server
